@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/isjustpo" target="blank"><img src="https://img.shields.io/twitter/follow/isjustpo?logo=twitter&style=for-the-badge" alt="isjustpo" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React, MongoDB, MySQL, Git, REST/SOAP/GraphQL**
+- **HTML, CSS, JS, React, MongoDB, MySQL, Git, REST/SOAP/GraphQL**
 
 - 💬 Ask me about **WEB/APP DEVELOPMENT,ANALYSIS, RESEARCH, DEVELOPMENT, CORE IMPLEMENTATION, MAINTAINANCE AND TESTING**
 
 - 📫 How to reach me **p.oduro@icloud.com**
-
-- ⚡ Fun fact **I am a self thought programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
