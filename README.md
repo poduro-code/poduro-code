@@ -7,9 +7,7 @@
 
 - **HTML, CSS, JS, React, MongoDB, MySQL, Git, REST/SOAP/GraphQL**
 
-- 💬 Ask me about **WEB/APP DEVELOPMENT**
-
-- 📫 How to reach me **p.oduro@icloud.com**
+- 💬 **WEB/APP DEVELOPMENT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
